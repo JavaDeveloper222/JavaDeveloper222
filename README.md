@@ -5,9 +5,6 @@
   <a href="https://vk.com/plugincrafting">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="https://www.avito.ru/">
-    <img src="https://img.shields.io/badge/Avito-orange?style=for-the-badge&logo=avito&logoColor=white" alt="Avito Badge"/>
-  </a>
 </div>
 
 Cтатус
